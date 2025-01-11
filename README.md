@@ -11,7 +11,7 @@ feedback can viewed by clicking on the left and right button.
 //technologies 
 HTML, CSS, Javascript.
 //setup
-you can clone the repository:
+you can clone the repository:https://github.com/Zoonamufeed/IndoTravi.website.project.git
 //usage
 Enable to fill the forms
 view blogs and tourist destination
